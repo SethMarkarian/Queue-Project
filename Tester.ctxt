@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\n\ Tester\ for\ the\ Queue\ classes.\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=q
+comment2.target=void\ tester(APQueue)
+comment2.text=\n\ You\ can\ plug\ either\ APArrayq\ or\ APLinkedq\ into\n\ this\ method,\ because\ they\ both\ implement\ the\ APq\n\ interface.\ Polymorphism\!\n\ \n\ Please\ write\ your\ own\ tester\ code\ to\ test\ a\ few\ iterations\ of\n\ push(),\ pop(),\ peek(),\ and\ size().\n
+numComments=3

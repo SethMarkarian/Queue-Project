@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=APQueue
+comment0.text=\n\ A\ queue\ is\ a\ data\ structure\ that\ works\ like\ people\ standing\ in\n\ a\ line,\ or\ a\ "queue"\ as\ the\ British\ say.\ Items\ are\n\ added\ to\ the\ back,\ and\ accessed\ or\ removed\ from\ the\ front.\n\ \n\ You\ can\ do\ the\ following\ with\ a\ queue\:\n\ \n\ -\ Add\ a\ new\ item\ to\ the\ back.\n\ -\ Remove\ an\ item\ from\ the\ front.\n\ -\ Look\ at\ the\ item\ at\ the\ front\ but\ not\ remove\ it.\n\ -\ Get\ the\ size\ of\ the\ queue.\n\ \n\ Two\ important\ features\ of\ a\ queue\ are\ that\ you\ can\ only\n\ add\ items\ to\ the\ back,\ and\ you\ can\ only\ see\ or\ remove\n\ items\ at\ the\ front.\n\ \n\ This\ interface\ specifies\ the\ method\ headers\ for\ a\ Queue\n\ data\ structure.\n\ \n\ Note\ the\ method\ names\ are\ the\ same\ as\ the\ ones\ in\ APStack,\ but\n\ they\ do\ different\ things.\n
+comment1.params=x
+comment1.target=void\ push(java.lang.Object)
+comment1.text=\n\ Adds\ a\ new\ item\ to\ the\ back\ of\ the\ queue.\n\ This\ increments\ the\ size.\n
+comment2.params=
+comment2.target=java.lang.Object\ pop()
+comment2.text=\n\ Removes\ and\ returns\ the\ front\ item\ in\ the\ queue.\n\ This\ decrements\ the\ size.\n
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment3.text=\n\ Returns\ but\ does\ not\ remove\ the\ front\ item\ in\ the\ queue.\n\ This\ does\ not\ change\ the\ size.\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\n\ Returns\ the\ size.\n
+comment5.params=
+comment5.target=int\ timesResized()
+comment5.text=\n\ Returns\ the\ number\ of\ times\ the\ queue\ has\ been\ resized.\n
+numComments=6

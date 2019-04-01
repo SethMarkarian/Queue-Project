@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=APArrayQueue
+comment0.text=\n\ A\ class\ that\ uses\ an\ array\ to\ implement\ the\ methods\n\ in\ the\ APQueue\ interface.\n\ \n\ Please\ use\ the\ "item\ cycle"\ method\ outlined\ in\ the\ notes.\n
+comment1.params=
+comment1.target=APArrayQueue()
+comment2.params=x
+comment2.target=void\ push(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=
+comment4.target=java.lang.Object\ peek()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=
+comment6.target=void\ resize()
+comment7.params=
+comment7.target=int\ timesResized()
+numComments=8
